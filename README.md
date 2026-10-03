@@ -4,3 +4,4 @@ Very thorough guide to houdini for GGP'ers. Will add procedural assets and proce
 
 It is in dutch tho. If ur English sorry dude, get someone to translate it for ya
 
+Just download the nodes file and open it in houdini, and ur good to go
